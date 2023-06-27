@@ -1,1 +1,44 @@
 /* Write your CSS here! */
+p {
+    margin: 25px 50px;
+  }
+
+#mainHeading {
+  color: red;
+}
+
+  h1 {
+   padding: 30px;
+   text-align: center;
+  }
+
+  body {
+    background-color: rgba(255, 193, 172, 0.577);
+    display: block;
+    margin: 8px;
+  }
+
+.funParagraph {
+  color: green;
+}
+
+.caption {
+  font-style: italic;
+  font-size: smaller;
+}
+
+#divImg1 {
+  float: right;
+}
+
+#div1 {
+  padding-top: 90px;
+}
+
+#div2 {
+  clear: right;
+}
+
+#divImg2 {
+  clear: right;
+}
